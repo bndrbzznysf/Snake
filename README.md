@@ -2,7 +2,7 @@
 
 ## Installation
 
-Télécharger le dossier Snake et le décompresser. Lancer le fichier Snake.exe
+Télécharger le dossier Snake et le décompresser. Lancer le fichier Snake.exe. Ne pas déplacer ou supprimer les fichiers présents dans le dossier.
 
 ## Jeu
 
